@@ -1,0 +1,1 @@
+/home/victor/proyecto_victor/Código/Python/script.py
